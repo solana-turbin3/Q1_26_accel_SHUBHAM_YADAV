@@ -1,0 +1,16 @@
+# Rust build artifacts
+target/
+
+# Anchor artifacts
+.anchor/
+test-ledger/
+
+# Node artifacts
+node_modules/
+
+# OS files
+.DS_Store
+
+# IDE
+.idea/
+.vscode/
